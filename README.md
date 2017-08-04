@@ -3,8 +3,8 @@ Simple Kalman Filter
 
 A simple Kalman Filter Objective-C codes.
 
-![](https://github.com/anhtukhtn/Kalman-Filter/master/accelerometer.png)
-![](https://github.com/anhtukhtn/Kalman-Filter/master/discontinuous_data.png)
+![](https://github.com/anhtukhtn/Kalman-Filter/blob/master/accelerometer.png)
+![](https://github.com/anhtukhtn/Kalman-Filter/blob/master/discontinuous_data.png)
 
 ## Usage
 
